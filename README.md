@@ -3,7 +3,7 @@ Temporary repo to compile devicetype categories
 
 Fill the ``./categories/index.js`` file like this : 
 ```
-export default = {
+export default {
   sensors : {
     temperature: 'temperature-sensor',
     humidity: 'humidity-sensor'
